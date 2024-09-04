@@ -4,7 +4,7 @@ The Agricultural Products Rural Entrepreneurship Management System is an online 
 
 ## Modules of the Application
 
- 1. *Administrator*
+### 1. *Administrator*
 The Administrator oversees the platform’s operations, including managing Farmers (Manufacturers) and Entrepreneurs (Customers). They have full access to:
 Statistics on the number of Farmers and Entrepreneurs.
 Information on product listings, purchases, and transactions.
