@@ -25,22 +25,22 @@ Complete purchases through an easy-to-navigate interface.
 
 ## Functionalities of the Application
 
-1. *Product Gallery*
+### 1. *Product Gallery*
 Farmers can showcase their products using appealing images and comprehensive descriptions.
 Highlights the variety and unique attributes of the products to attract potential buyers.
 
-2. *Cart for Products*
+### 2. *Cart for Products*
 Acts as an online basket where buyers can compile items for purchase.
 Allows for reviewing selections and making a single payment for all chosen products.
 
-3. *Technologies in Agriculture*
+### 3. *Technologies in Agriculture*
 Offers information on different farming techniques, practices, and systems tailored to various climates, soil types, and crops.
 
-4. *Government Schemes and Subsidies*
+### 4. *Government Schemes and Subsidies*
 Provides a platform for Farmers to access and apply for agricultural support programs.
 Includes details on schemes, personalized recommendations, application tracking, and interactive tools for accessing government initiatives.
 
-5. *Order and Transaction Management*
+### 5. *Order and Transaction Management*
 Facilitates smooth online transactions for purchasing agricultural products.
 Features secure payment options and an efficient checkout process.
 
