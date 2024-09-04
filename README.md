@@ -46,9 +46,12 @@ Features secure payment options and an efficient checkout process.
 
 # Technologies Utilized
 
-*Front-End:* HTML / React JS / Angular JS + CSS & Bootstrap
-*Middleware:* Spring Boot
-*Database Connectivity:* Spring Data JPA
-*Database:* MySQL / PostgreSQL
-*Web Services:* RESTful Web Services (REST API)
-*Architecture:* Microservices
+## Technologies Used
+
+- **Front-End:** HTML, React JS, Angular JS, CSS, Bootstrap
+- **Middleware:** Spring Boot
+- **Database Connectivity:** Spring Data JPA
+- **Database:** MySQL, PostgreSQL
+- **Web Services:** RESTful Web Services (REST API)
+- **Architecture:** Microservices
+
